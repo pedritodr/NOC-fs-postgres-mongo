@@ -3,3 +3,8 @@ dist/
 
 .env
 
+mongo/
+
+postgres/
+
+logs/
